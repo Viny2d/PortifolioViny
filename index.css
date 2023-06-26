@@ -6,14 +6,14 @@
 
 body{
     font-family: 'Roboto Slab', serif;
-    background-color:#b9b8e5;
-    color: rgb(40, 0, 90);
+    background-color:hsl(212, 67%, 76%);
+    color: rgb(48, 21, 82);
     text-align: center;
 }
 
 
 header{
-    background-color:#a39ee7;
+    background-color:hsl(207, 68%, 70%);
     font-size: 50px;
     font-weight: bolder;
     padding: 20px;
