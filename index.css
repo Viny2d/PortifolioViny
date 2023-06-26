@@ -6,14 +6,14 @@
 
 body{
     font-family: 'Roboto Slab', serif;
-    background-color:hsl(212, 67%, 76%);
-    color: rgb(48, 21, 82);
+    background-color:#e5ddb8;
+    color: #000000;
     text-align: center;
 }
 
 
 header{
-    background-color:hsl(207, 68%, 70%);
+    background-color:#fce8a6;
     font-size: 50px;
     font-weight: bolder;
     padding: 20px;
@@ -43,7 +43,7 @@ header{
 
 #My{
     margin-bottom: 15px;
-    background-color:#a39ee7;
+    background-color:#fce8a6;
     border-radius: 10px;
 }
 
@@ -105,7 +105,7 @@ img:hover{
 }
 
 footer{
-    background-color:#a39ee7;
+    background-color:#fce8a6;
 }
 
 h2{
