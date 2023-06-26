@@ -1,0 +1,135 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto Slab', serif;
+    background-color:#e5ddb8;
+    color: #000000;
+    text-align: center;
+}
+
+
+header{
+    background-color:#fce8a6;
+    font-size: 50px;
+    font-weight: bolder;
+    padding: 20px;
+}
+
+.Sobreu{
+    display: flex;
+    margin: 20px;
+}
+
+#Viny{
+    width: 450px;
+    border: solid;
+    border-color: rgb(235, 229, 229);
+}
+
+#Viny:hover{
+    transform: scale(1.020);
+    transition: all 0.15s;
+}
+
+.SobreuText{
+    text-align: justify;
+    justify-content: center;
+    margin: 20px;
+}
+
+#My{
+    margin-bottom: 15px;
+    background-color:#fce8a6;
+    border-radius: 10px;
+}
+
+.ProjetinhoA{
+    margin-right: 50px;
+    display: flex;
+    margin-left: 50px;
+    margin-bottom: 15px;
+    font-size: 50px;
+}
+
+#alurinha{
+    width: 300px;
+    border: solid;
+    border-color: rgb(235, 229, 229);
+    margin-left: -8px;
+}
+
+.texto{
+    margin-top: 25px;
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+#alurinho{
+    width: 280px;
+    border: solid;
+    border-color: rgb(235, 229, 229);
+}
+
+h1{
+    margin: 5px;
+    font-size: 60px;
+    text-align: center;
+}
+
+p{
+    font-size: 25px;
+    padding-top: 15px;
+}
+
+#Tamanho{
+    font-size: 28px;
+    text-align: justify;
+}
+
+em{
+    font-weight: bolder;
+}
+
+img{
+    border-radius: 20px;
+    justify-content: center;
+}
+
+img:hover{
+    transform: scale(1.06);
+    transition: all 0.2s;
+}
+
+footer{
+    background-color:#fce8a6;
+}
+
+h2{
+    font-size: 36px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+#Pnginsta{
+    width: 53.5px;
+}
+
+#Pngemail{
+    width: 55px;
+    margin-left: 5px;
+}
+
+#Pnglink{
+    width: 58px;
+}
+
+#Frasedeefeito{
+    font-weight: bolder;
+    font-size: 15px;
+    padding: 10px;
+}
