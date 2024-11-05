@@ -37,7 +37,7 @@ h2{
     background-color: #000000;
     color: #ffffff;
     font-family: "EB Garamond", serif;
-    font-size: 5em;
+    font-size: 3em;
     padding: 2% 1.5% 0% 1.5%;
 }
 
@@ -56,7 +56,7 @@ h2{
 
 
 #Foto{
-    max-width: 500px;
+    max-width: 30%;
     background-color: #ffffff;
 }
 
@@ -79,17 +79,17 @@ ul{
 }
 
 #Foto2{
-    width: 50%;
+    width: 25%;
     margin: 0% 3% 2% 0%;
 }
 
 #Foto3{
-    width: 45%;
+    width: 25%;
     margin: 4% 2% 4% 2%;
 }
 
 #Foto4{
-    width: 50%;
+    width: 20%;
     margin: 3% 1% 2% 2%;
 }
 
