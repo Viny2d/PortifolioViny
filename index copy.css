@@ -29,7 +29,7 @@ h1{
 p{
     margin: 2% 0% 2% 2%;
     font-family: "EB Garamond", serif;
-    font-size: 1.5em;
+    font-size: 2em;
     text-align: justify;
 }
 
@@ -43,7 +43,7 @@ h2{
 
 #texto1{
     font-family: "EB Garamond", serif;
-    font-size: 1.5em;
+    font-size: 2em;
     text-align: justify;
     margin: 2%;
 }
@@ -70,7 +70,7 @@ ul{
     align-items: center;
     text-align: justify;
     padding: 2.5%;
-    font-size: 1.5em;
+    font-size: 2em;
 }
 
 .ProjetosTexto{
@@ -79,24 +79,24 @@ ul{
 }
 
 #Foto2{
-    width: 10%;
+    width: 15%;
     margin: 0% 3% 2% 0%;
 }
 
 #Foto3{
-    width: 10%;
+    width: 15%;
     margin: 4% 2% 4% 2%;
 }
 
 #Foto4{
-    width: 10%;
+    width: 15%;
     margin: 3% 1% 2% 2%;
 }
 
 #Cop{
     margin: 0% 0% 1.7% 0%;
     text-align: center;
-    font-size: 1.5em;
+    font-size: 2em;
 }
 
 a{
@@ -108,7 +108,7 @@ h3{
     font-family: "EB Garamond", serif;
     background-color: rgb(255, 255, 255);
     color: #000000;
-    font-size: 3em;
+    font-size: 2.5em;
 }
 
 #Png{
