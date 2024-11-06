@@ -11,6 +11,17 @@
 
 
     <link rel="stylesheet" href="index copy.css">
+    <style>
+        .reveal {
+            opacity: 0;
+            transition: opacity 1s ease-in-out;
+            margin-bottom: 100px;
+        }
+
+        .revealed {
+            opacity: 1;
+        }
+    </style>
     <title>Portifólio Vinicius</title>
 </head>
 <body>
@@ -64,6 +75,19 @@
              <a target="_blank" href="https://www.linkedin.com/in/vinicius-borges-6b1380332/"><img src="pngwing.com.png" id="Png"></a>
              <p id="Cop">© 2024 Vinicius N. Termos e Política de privacidade</p>
     </footer>
-
+    
+    <script>
+        window.addEventListener('scroll', function() {
+            var elements = document.querySelectorAll('.reveal');
+            elements.forEach(function(element) {
+                var position = element.getBoundingClientRect().top;
+                var screenPosition = window.innerHeight / 1.5; // Começa a revelar um pouco antes de chegar ao topo da tela
+    
+                if (position < screenPosition) {
+                    element.classList.add('revealed');
+                }
+            });
+        });
+    </script>
 </body>
 </html>
