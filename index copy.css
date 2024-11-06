@@ -113,15 +113,13 @@ h3{
     font-size: 2.5em;
 }
 
-#Png {
-    width: 4%;
-}
-
+/* Garantir que todas as imagens tenham o efeito aplicado */
 .logo {
-    transition: filter 0.3s ease; /* Transição suave para a mudança de cor */
+    width: 4%; /* Define o tamanho inicial das imagens */
+    transition: transform 0.3s ease; /* Adiciona uma transição suave ao efeito */
 }
 
-/* Quando o mouse passar sobre a logo */
+/* Quando o mouse passar sobre qualquer uma das logos */
 .logo:hover {
-    filter: invert(23%) sepia(100%) saturate(500%) hue-rotate(-50deg);
+    transform: scale(1.2); /* Aumenta o tamanho da imagem em 20% */
 }
