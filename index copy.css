@@ -29,7 +29,7 @@ h1{
 p{
     margin: 2% 0% 2% 2%;
     font-family: "EB Garamond", serif;
-    font-size: 2em;
+    font-size: 1em;
     text-align: justify;
 }
 
@@ -70,7 +70,7 @@ ul{
     align-items: center;
     text-align: justify;
     padding: 2.5%;
-    font-size: 2em;
+    font-size: 1em;
 }
 
 .ProjetosTexto{
@@ -96,7 +96,7 @@ ul{
 #Cop{
     margin: 0% 0% 1.7% 0%;
     text-align: center;
-    font-size: 2em;
+    font-size: 1em;
 }
 
 a{
