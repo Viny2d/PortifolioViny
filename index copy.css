@@ -113,17 +113,15 @@ h3{
     font-size: 2.5em;
 }
 
-#Png{
+#Png {
     width: 4%;
 }
 
 .logo {
-    transition: filter 0.3s ease; /* Adiciona uma transição suave */
-    width: 4%;
-    color: #000000;
+    transition: filter 0.3s ease; /* Transição suave para a mudança de cor */
 }
 
+/* Quando o mouse passar sobre a logo */
 .logo:hover {
-    filter: hue-rotate(90deg); /* Gira as cores, criando um efeito de mudança de cor */
-    color: blue;
+    filter: invert(23%) sepia(100%) saturate(500%) hue-rotate(-50deg);
 }
