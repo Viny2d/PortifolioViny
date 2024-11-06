@@ -119,6 +119,7 @@ h3{
 
 .logo {
     transition: filter 0.3s ease; /* Adiciona uma transição suave */
+    width: 4%;
 }
 
 .logo:hover {
