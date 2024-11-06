@@ -15,13 +15,13 @@ header{
         background-color:rgb(0, 0, 0);
         color: #ffffff;
         font-family: "EB Garamond", serif;
-        font-size: 3em;
+        font-size: 3%;
         font-weight: bolder;
         padding: 2%;
 }
 
 h1{
-    font-size: 3em;
+    font-size: 3%;
     font-family: "EB Garamond", serif;
     text-align: center;
 }
@@ -29,7 +29,7 @@ h1{
 p{
     margin: 2% 0% 2% 2%;
     font-family: "EB Garamond", serif;
-    font-size: 1em;
+    font-size: 180%;
     text-align: justify;
 }
 
@@ -37,13 +37,12 @@ h2{
     background-color: #000000;
     color: #ffffff;
     font-family: "EB Garamond", serif;
-    font-size: 3em;
+    font-size: 200%;
     padding: 2% 1.5% 0% 1.5%;
 }
 
 #texto1{
     font-family: "EB Garamond", serif;
-    font-size: 2em;
     text-align: justify;
     margin: 2%;
 }
@@ -70,7 +69,7 @@ ul{
     align-items: center;
     text-align: justify;
     padding: 2.5%;
-    font-size: 1em;
+    font-size: 170%;
 }
 
 .ProjetosTexto{
@@ -96,7 +95,7 @@ ul{
 #Cop{
     margin: 0% 0% 1.7% 0%;
     text-align: center;
-    font-size: 1em;
+    font-size: 150%;
 }
 
 a{
