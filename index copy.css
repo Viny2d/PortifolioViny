@@ -29,7 +29,7 @@ h1{
 p{
     margin: 2% 0% 2% 2%;
     font-family: "EB Garamond", serif;
-    font-size: 180%;
+    font-size: 150%;
     text-align: justify;
 }
 
@@ -55,12 +55,13 @@ h2{
 
 
 #Foto{
-    width: 35%;
+    width: 55%;
+    height: 55%;
     background-color: #ffffff;
 }
 
 .Projetos{
-    row-gap: 80px;
+    
     background-color: #000000;
     color: #ffffff;
 }
@@ -73,6 +74,7 @@ ul{
 }
 
 .ProjetosTexto{
+    row-gap: 80px;
     display: flex;
     align-items: center;
 }
