@@ -120,8 +120,10 @@ h3{
 .logo {
     transition: filter 0.3s ease; /* Adiciona uma transição suave */
     width: 4%;
+    color: #000000;
 }
 
 .logo:hover {
     filter: hue-rotate(90deg); /* Gira as cores, criando um efeito de mudança de cor */
+    color: blue;
 }
