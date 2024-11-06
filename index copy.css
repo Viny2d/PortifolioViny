@@ -29,7 +29,7 @@ h1{
 p{
     margin: 2% 0% 2% 2%;
     font-family: "EB Garamond", serif;
-    font-size: 150%;
+    font-size: 100%;
     text-align: justify;
 }
 
@@ -44,6 +44,7 @@ h2{
 #texto1{
     font-family: "EB Garamond", serif;
     text-align: justify;
+    font-size: 170%;
     margin: 2%;
 }
 
