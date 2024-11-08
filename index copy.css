@@ -81,23 +81,23 @@ ul{
 }
 
 #Foto2{
-    width: 15%;
-    margin: 0% 3% 2% 0%;
+    width: 20%;
+    margin: 10% 3% 2% 0%;
 }
 
 #Foto3{
     width: 100%;
-    margin: 5% 10% 5% 10%;
+    margin: 10% 10% 5% 10%;
 }
 
 #Foto4 {
-    width: 60%;
-    margin: 0% 3% 2% 0%;
+    width: 45%;
+    margin: 10% 3% 2% 0%;
 }
 
 #Foto5{
-    width: 70%;
-    margin: 0% 3% 2% 0%;
+    width: 65%;
+    margin: 10% 3% 2% 0%;
 }
 
 
@@ -108,7 +108,7 @@ ul{
 }
 
 a{
-    align-items: center;
+    text-align: center;
 }
 
 h3{
