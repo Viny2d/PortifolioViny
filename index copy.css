@@ -118,6 +118,10 @@ a{
     margin-right: 6%;
 }
 
+a#Contatos{
+    margin: 0%;
+}
+
 h3{
     text-align: center;
     font-family: "EB Garamond", serif;
@@ -137,6 +141,3 @@ h3{
     transform: scale(1.2); /* Aumenta o tamanho da imagem em 20% */
 }
 
-a#Contatos{
-    margin: 0%;
-}
