@@ -136,3 +136,7 @@ h3{
 .logo:hover {
     transform: scale(1.2); /* Aumenta o tamanho da imagem em 20% */
 }
+
+#Contatos{
+    margin: 0%;
+}
